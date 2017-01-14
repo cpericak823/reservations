@@ -17,6 +17,7 @@ var bodyParser = require("body-parser");
 var path = require("path");
 
 //Global Variables
+
 var app = express();
 var PORT = 3000;
 var tables = [];
